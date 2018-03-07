@@ -1,3 +1,13 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% ROW DATA CAPTURING FROM INRAS FMCW RADAR
+% 
+% CREATED BY:
+% MUHAMMET EMIN YANIK
+% 
+% ADVISOR:
+% PROFESSOR MURAT TORLAK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 function [RowData,nCall] = Capture_INRAS_77GHz_TDM(Brd,Cfg,CalData,RowData,nCall)
 
 %--------------------------------------------------------------------------

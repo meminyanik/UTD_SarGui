@@ -1,3 +1,13 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% INITIALIZE CONNECTION WITH TI AWR144 FMCW RADAR
+% 
+% CREATED BY:
+% MUHAMMET EMIN YANIK
+% 
+% ADVISOR:
+% PROFESSOR MURAT TORLAK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 function ErrStatus = Init_RSTD_Connection(RSTD_DLL_Path)
 %This script establishes the connection with Radarstudio software
 %   Pre-requisites:

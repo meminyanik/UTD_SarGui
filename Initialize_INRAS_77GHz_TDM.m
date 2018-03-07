@@ -1,3 +1,13 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% INITIALIZE CONNECTION WITH INRAS FMCW RADAR
+% 
+% CREATED BY:
+% MUHAMMET EMIN YANIK
+% 
+% ADVISOR:
+% PROFESSOR MURAT TORLAK
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 function [Brd,Cfg,CalData,RowData,nCall] = Initialize_INRAS_77GHz_TDM()
 
 % Description:
